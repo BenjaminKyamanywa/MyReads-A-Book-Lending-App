@@ -1,4 +1,4 @@
-# 😊 My Reads
+# 📖 My Reads
 
 A web app used that allows a user to select and categorize books in read, currently reading, or want to read. An API is provided for use with the client library to persist information as a user interacts with the application.
 
